@@ -1,2 +1,3 @@
 # dailyprogrammer
-Problems from https://www.reddit.com/r/dailyprogrammer
+One problem to be solved every day.
+
